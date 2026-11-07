@@ -2,7 +2,7 @@ Admin User login account.
 Admin can build roles.
 
 manage the database
-Closing the Database Connection
+Closing the Oracle Database Connection
 
 change
 
